@@ -19,7 +19,7 @@ export default function Home() {
 					I&apos;m Chris Wolf, an <a target="_blank" href="https://sakeeducationcouncil.net/">SEC Certified Sake Professional</a> living, drinking, and pouring sake in Los Angeles.
 				</p>
 				<p className="text-xl mb-4">
-					I have a passion for introducing people to sake and creating new sake fanatics! I'd love to host a sake tasting at your venue or next event.
+					I have a passion for introducing people to sake and creating new sake fanatics! I&apos;d love to host a sake tasting at your venue or next event.
 				</p>
 				<p className="text-xl">
 					<a href="mailto:chris@sakewolf.com" target="_blank">chris@sakewolf.com</a><br/>
