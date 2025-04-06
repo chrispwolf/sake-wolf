@@ -29,18 +29,18 @@ export default function Home() {
 					I&apos;m Chris Wolf, a full-time sake obsessive living and drinking in Los Angeles.
 				</p>
 				<p className="text-xl mb-4">
-					I've studied Japanese sake behind the bar here in LA, and while visiting breweries with reknowned experts in Japan. I want to share the richness, versatility, and delight of sake with you.
+					I&apos;ve studied Japanese sake behind the bar here in LA, and while visiting breweries with reknowned experts in Japan. I want to share the richness, versatility, and delight of sake with you.
 				</p>
 				<h2 className="text-2xl font-bold mb-6 mt-6">Get in touch 🍶 連絡</h2>
 				<p className="text-xl mb-4">
-						Let's host a sake tasting at your next event, or arrange a sake pop-up night at your venue!
+						Let&apos;s host a sake tasting at your next event, or arrange a sake pop-up night at your venue!
 				</p>
 				<p className="text-xl mb-4">
 					<a href="mailto:chris@sakewolf.com" target="_blank">chris@sakewolf.com</a><br/>
 					<a href="https://www.instagram.com/sakewolf_la/" target="_blank">@sakewolf_la</a>
 				</p>
 				<h2 className="text-2xl font-bold mt-6 mb-6">Certifications 🍶 証明書</h2>
-				<p className="text-xl mb-4">I've been awarded the <a href="https://sakeeducationcouncil.net/certification/" target="_blank">SEC Advanced Sake Professional</a>, and <a href="https://www.sakescholar.com/" target="_blank">Sake Scholar</a> certifications.</p>
+				<p className="text-xl mb-4">I&apos;ve been awarded the <a href="https://sakeeducationcouncil.net/certification/" target="_blank">SEC Advanced Sake Professional</a>, and <a href="https://www.sakescholar.com/" target="_blank">Sake Scholar</a> certifications.</p>
 			</div>
 		</div>
         </main>
