@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 :root {
-  --background: #375DC0;
-  --foreground: #F9E7A9;
+  --background: #FFF5CF;
+  --foreground: #375DC0;
 }
 
 /* @media (prefers-color-scheme: dark) {
@@ -20,6 +20,18 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+main {
+	border: 10px solid var(--foreground);
+	padding: 2rem;
+}
+
 p a {
 	text-decoration: underline;
+}
+
+.circle-shadow {
+	box-shadow: var(--foreground) -25px -17px;
+	@media( min-width: 768px ) {
+		box-shadow: var(--foreground) -50px -35px;
+	}
 }
