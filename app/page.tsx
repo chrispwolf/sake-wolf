@@ -14,22 +14,22 @@ export default function Home() {
 					/>
 			</h1>
 		<div className="flex gap-16 flex-col">
-			<div className="text-center justify-center flex">
-				<Image
-					src="/pouring.jpg"
-					className="block rounded-full self-center circle-shadow"
-					width={400}
-					height={400}
-					alt="Photo of me pouring sake from a blue bottle in front of a glass window."
-				/>
-			</div>
 			<div>
+				<div className="text-center justify-center flex mb-6">
+					<Image
+						src="/pouring.jpg"
+						className="block rounded-full self-center circle-shadow"
+						width={400}
+						height={400}
+						alt="Photo of me pouring sake from a large bottle at a bar. The bar is wood. Behind me is an exposed brick wall. I'm a man in my 30s with a mustache and glasses. I'm wearing a beige baseball cap, glasses, and a grey short-sleeve button down."
+					/>
+				</div>
 				<h2 className="text-2xl font-bold mb-6">Howdy 🍶 こんにちは</h2>
 				<p className="text-xl mb-4">
 					I&apos;m Chris Wolf, a full-time sake obsessive living and drinking in Los Angeles.
 				</p>
 				<p className="text-xl mb-4">
-					I&apos;ve studied Japanese sake behind the bar here in LA, and while visiting breweries with reknowned experts in Japan. I want to share the richness, versatility, and delight of sake with you.
+					I&apos;ve studied Japanese sake behind the bar here in LA, and while visiting breweries with renowned experts in Japan. I want to share the richness, versatility, and delight of sake with you.
 				</p>
 				<h2 className="text-2xl font-bold mb-6 mt-6">Get in touch 🍶 連絡</h2>
 				<p className="text-xl mb-4">
@@ -40,7 +40,7 @@ export default function Home() {
 					<a href="https://www.instagram.com/sakewolf_la/" target="_blank">@sakewolf_la</a>
 				</p>
 				<h2 className="text-2xl font-bold mt-6 mb-6">Certifications 🍶 証明書</h2>
-				<p className="text-xl mb-4">I&apos;ve been awarded the <a href="https://sakeeducationcouncil.net/certification/" target="_blank">SEC Advanced Sake Professional</a>, and <a href="https://www.sakescholar.com/" target="_blank">Sake Scholar</a> certifications.</p>
+				<p className="text-xl mb-4">I&apos;m an <a href="https://sakeeducationcouncil.net/certification/" target="_blank">SEC Advanced Sake Professional</a> and a <a href="https://www.sakescholar.com/" target="_blank">Sake Scholar</a>.</p>
 			</div>
 		</div>
         </main>
